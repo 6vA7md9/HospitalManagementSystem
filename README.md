@@ -1,7 +1,3 @@
-Certainly! Below is a detailed **README.md** file that includes instructions on how to compile the **Hospital Patient Record Management System** using Qt, as well as information on downloading precompiled versions from the releases for click-and-play usage.
-
----
-
 # Hospital Patient Record Management System
 
 ## Overview
